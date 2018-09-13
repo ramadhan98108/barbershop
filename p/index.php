@@ -164,7 +164,7 @@ if (isset($_SESSION['username'])) {
 							</div>
 						</div>
 						<div class="team-content">
-							<h3>Bima Feby Ramadhan</h3>
+							<h3>KIMCIL KEPOLEN</h3>
 							<span>Web Designer</span>
 						</div>
 					</div>
