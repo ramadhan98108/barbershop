@@ -13,7 +13,7 @@ if (isset($_SESSION['username'])) {
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>BARBER.GO</title>
+	<title>KIMCIL</title>
 	
 		<style type="text/css">
 	@font-face{
@@ -264,7 +264,7 @@ if (isset($_SESSION['username'])) {
 				<!-- /contact -->
 
 					<div class="footer-copyright">
-						<p>Copyright © 2017. All Rights Reserved. Designed by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
+						<p>Copyright Â© 2017. All Rights Reserved. Designed by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
 					</div>
 
 			</div>
